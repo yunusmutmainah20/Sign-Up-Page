@@ -14,7 +14,7 @@ body {
 }
 
 .parent {
-  background-color: #73c2fb;
+  background-color: #2196F3;
   width: 100vw;
   padding: 50px 0;
 }
@@ -75,7 +75,7 @@ a {
 
 button {
   display: block;
-  background-color: #73c2fb;
+  background-color: #2196F3;
   color: white;
   border: none;
   border-radius: 2px;
